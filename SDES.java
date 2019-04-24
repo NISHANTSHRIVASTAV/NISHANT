@@ -1,8 +1,6 @@
 /* 
 Problem Statement:- Implementation of S-DES 
 Made by:- Nishant S. Shrivastav
-BE-A
-Roll no:- 58
 */
 
 class SDES
